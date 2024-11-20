@@ -19,14 +19,14 @@ This is a simple **ReactJS application** that fetches product data from the [Fak
 
 ### Fetching Products
 
-     .Data is fetched from the Fake Store API using the useEffect hook and stored in state.
+     -Data is fetched from the Fake Store API using the useEffect hook and stored in state.
 
 
 ### Adding to Cart
 
-    .When a user clicks “Add to Cart” product is added to the cart
+    -When a user clicks “Add to Cart” product is added to the cart
 
 ### Cart Management
-    .The cart state dynamically updates as products are added.
-	.The total price is recalculated whenever changes occur.
+    -The cart state dynamically updates as products are added.
+	-The total price is recalculated whenever changes occur.
 
